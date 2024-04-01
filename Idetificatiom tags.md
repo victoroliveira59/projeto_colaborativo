@@ -1,0 +1,16 @@
+01 - <header>
+02 - <main>
+03 - <nav>
+04 - <img>
+05 - <h1>
+06 - <h2>
+07 - <p>
+08 - <a>
+09 - <footer>
+10 - <li>
+11 - <ul>
+12 - <form>
+13 - <label>
+14 - <input>
+15 - <select>
+16 - <button>
