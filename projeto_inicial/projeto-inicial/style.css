@@ -12,6 +12,11 @@ header {
   margin-bottom: 16px;
 }
 
+main{
+   background-color: url(img/bg_laranja.jpg);
+   background-image: url(img/bg_laranja.jpg);
+}
+
 nav {
   /* background-color: #EF7D19; */
 }
